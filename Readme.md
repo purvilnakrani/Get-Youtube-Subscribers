@@ -3,15 +3,16 @@
 
 ## Introduction
 
-* A backend project which includes specific routes in the URL .
-* User can  do the following as below:
+* Youtube subscribers backend Api to get the subscribers using specific routes end point made using Node.js , Express.js and MongoDB and Mongoose. By including particular routes end point in the URL, user can access the number of subscribers list, subscribers name or access subscribers by specific IDs.
+
+* User can do the following as below:
     - *access the number of subscribers*, 
     - *access subscribers by specific IDs and names*, 
     - *add subscribers*, &
     - *delete subscibers*
 
 
-## Steps to run code :
+## Steps to run code locally :
 
 - *Step 1*
 
