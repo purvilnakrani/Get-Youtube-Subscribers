@@ -1,4 +1,4 @@
-# Get-Youtube-Subscribers (AlmaBetter Capston Project)
+# Get-Youtube-Subscribers (AlmaBetter Capstone Project)
 
 
 ## Introduction
