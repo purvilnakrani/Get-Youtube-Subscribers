@@ -3,7 +3,7 @@
  ### `Deploy Link` <br/>
  https://get-youtube-subscribers-1211.onrender.com<br>
 
-## Introduction
+## `Introduction`
 
 * Youtube subscribers backend Api to get the subscribers using specific routes end point made using Node.js , Express.js and MongoDB and Mongoose. By including particular routes end point in the URL, user can access the number of subscribers list, subscribers name or access subscribers by specific IDs.
 
@@ -14,9 +14,9 @@
     - *delete subscibers*
 
 
-## Steps to run code locally :
+## `Steps to run code locally :`
 
-- *Step 1*
+- *`Step 1`*
 
 If you want to work on this project , clone this repo
 
@@ -26,14 +26,14 @@ git clone "https://github.com/purvilnakrani/Get-Youtube-Subscribers.git"
 ```
 Install npm dependencies of express and mongoose using " npm install " command.
 
-- *Step 2*
+- *`Step 2`*
 
 Using MongoDB local (Compass) as well as MongoDB Cloud (Atlas), depends on you.
 * - **note** : To demonstrate I am using deployed project over the render<br/>
 
 Start the backend server using nodemon or node index.js command.
 
-- *Step 3*
+- *`Step 3`*
 
 - GET http://localhost:3000/ → The client will see an interface as below:<br/>
 <img width="863" alt="image" src="https://github.com/purvilnakrani/Get-Youtube-Subscribers/blob/master/screenshots/homepage.png"><br/>
@@ -73,12 +73,7 @@ __Postman__ (Deleting Subscriber with added subscriber id) <br/>
 
 
 
-## Deployment
-
-*__Use Json Viewer extension in Browser for better view__*
-
-
- *__Demo Video link__* <br/>
+ *`__Demo Video link__`* <br/>
 https://youtu.be/KtOc33LXOKk
 <hr/>
 
