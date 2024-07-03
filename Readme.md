@@ -73,8 +73,8 @@ __Postman__ (Deleting Subscriber with added subscriber id) <br/>
 
 
 
- *`__Demo Video link__`* <br/>
-https://youtu.be/KtOc33LXOKk
+ *`Video link`* <br/>
+
 <hr/>
 
 
