@@ -60,9 +60,9 @@ app.post('/subscribers/add', async (req, res) => {
     try {
         // To save it to the database, use .save().
         let result = await newSubscriber.save();
-        response.json(result);
+        res.json(result);
     } catch (err) {
-        response.send("Error in adding data to the database");
+        res.send("Error in adding data to the database");
     }
 });
 
