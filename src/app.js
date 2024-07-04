@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
 // shows all database subscribers.
 app.get('/subscribers', async (req, res) => {
     try {
-        const allSubscribers = await subscriberModal.find()
+        const allSubscribers = await subscriberModel.find()
             .select("-__v");
         res.json(allSubscribers);
     } catch (err) {
@@ -51,7 +51,7 @@ app.get('/subscribers/:id', async (req, res) => {
 // add subscriber
 // Use Postman to hit post request
 app.post('/subscribers/add', async (req, res) => {
-    // adding a new subscriber as defined by the subscriberModal in the model
+    // adding a new subscriber as defined by the subscriberModel in the model
     const newSubscriber = new subscriberModel({
         name: req.body.name,
         subscribedChannel: req.body.subscribedChannel
