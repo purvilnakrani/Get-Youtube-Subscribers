@@ -1,4 +1,4 @@
-# Get-Youtube-Subscribers (AlmaBetter Capstone Project)
+# Get-Youtube-Subscribers (AlmaBetter Backend Capstone Project)
 
  ### `Deploy Link` <br/>
    https://get-youtube-subscribers-1211.onrender.com<br>
